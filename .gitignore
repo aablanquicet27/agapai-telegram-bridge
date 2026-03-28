@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.vercel
+*.js
+*.d.ts
+*.js.map
+*.d.ts.map
+!vercel.json
+!package.json
+!tsconfig.json
